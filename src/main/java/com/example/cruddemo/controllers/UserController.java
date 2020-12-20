@@ -14,6 +14,11 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import javax.validation.Valid;
 
+/**
+ * A class to test interactions with the MySQL database using the UserRepository class.
+ *
+ * @author juliavaz
+ */
 @Controller
 public class UserController {
 
